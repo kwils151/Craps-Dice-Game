@@ -1,0 +1,14 @@
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\bin\Debug\NewCraps.exe.config
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\bin\Debug\NewCraps.exe
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\bin\Debug\NewCraps.pdb
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\obj\Debug\NewCraps.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\obj\Debug\NewCraps.exe
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\obj\Debug\NewCraps.pdb
+C:\Users\Kyle\Documents\UNCC Classes\ITSC 3112\Craps\NewCraps\NewCraps\obj\Debug\NewCraps.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\bin\Debug\NewCraps.exe.config
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\bin\Debug\NewCraps.exe
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\bin\Debug\NewCraps.pdb
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\obj\Debug\NewCraps.csprojAssemblyReference.cache
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\obj\Debug\NewCraps.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\obj\Debug\NewCraps.exe
+C:\Users\Kyle\Desktop\NewCraps\NewCraps\obj\Debug\NewCraps.pdb
